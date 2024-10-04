@@ -1,1 +1,1 @@
-simple addition calculator
+simple addition calculator using Node.js
